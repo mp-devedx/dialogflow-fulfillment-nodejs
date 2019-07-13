@@ -1,3 +1,12 @@
+# Fix Suggestions for Facebook
+This fork was made to Fix Suggestions for facebook in updated version of [dialogflow-fulfillment](https://github.com/dialogflow/dialogflow-fulfillment-nodejs).
+
+It's needed to have the updated version of the official repo to use some features like Custom Payload.
+
+Solution taken from [naranjja](https://github.com/dialogflow/dialogflow-fulfillment-nodejs/issues/76#issuecomment-400166076)
+
+---
+
 # Dialogflow Fulfillment Library
 The [Dialogflow Fulfillment Library](https://dialogflow.com/docs/fulfillment) allows you to connect natural language understanding and processing to your own systems, APIs, and databases. Using Fulfillment, you can surface commands and information from your services to your users through a natural conversational interface.
 
